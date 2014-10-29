@@ -2,8 +2,8 @@
 
 - **1.[你应当具备的知识](1.0.md)** 
  - 1.1 [测试环境的搭建](1.1.md)
-     - 1.1.1 [php与iis](1.1.1.md)
-     - 1.1.2 [php与apache](1.1.2.md)
+     - 1.1.1 [php-iis-mysql](1.1.1.md)
+     - 1.1.2 [php-apache-mysql](1.1.2.md)
      - 1.1.3 [php集成环境](1.1.3.md)
      - 1.1.4 [windows和linux下php](1.1.4.md)
      - 1.1.5 [php.ini与.htaccess](1.1.5.md)
